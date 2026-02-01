@@ -1,6 +1,6 @@
 # Hi, I'm Mark Ronniel Mayor 👋
 
-CS student at the University of Makati, building AI-powered mobile and web applications. 
+CS student at the University of Makati, building AI-powered mobile and web applications.
 
 Currently focused on integrating ML models and LLM APIs into real products.
 
@@ -20,6 +20,7 @@ Currently focused on integrating ML models and LLM APIs into real products.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4C2C?style=flat-square&logo=codeigniter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 **AI / ML**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412391?style=flat-square&logo=openai&logoColor=white)
