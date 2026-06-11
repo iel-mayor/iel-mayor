@@ -1,6 +1,6 @@
 # Hi, I'm Mark Ronniel Mayor 👋
 
-Software developer specializing in AI-integrated applications and cross-platform development. I build full-stack systems across mobile, web, and desktop while shipping AI-powered prototypes featuring custom ML models and LLM integrations.
+Software developer specializing in AI-integrated applications and cross-platform development. I build full-stack systems across mobile, web, and desktop while shipping AI-powered applications featuring custom ML models and LLM integrations.
 
 ---
 
