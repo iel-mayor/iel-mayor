@@ -81,5 +81,6 @@ Real-time yoga pose feedback using Human Pose Estimation and neural network algo
 
 ## 📫 Let's Connect
 
+- [Portfolio](https://markronnielmayor.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/markronnielmayor/)
 - [Email](mailto:mrmayor.work@gmail.com)
