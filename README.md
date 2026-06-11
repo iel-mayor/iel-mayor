@@ -1,6 +1,6 @@
 # Hi, I'm Mark Ronniel Mayor 👋
 
-CS student at the University of Makati, building AI-powered mobile and web applications.
+Software Developer from the University of Makati, specializing in building full-stack multi-platform applications with AI integrations.
 
 Currently focused on integrating ML models and LLM APIs into real products.
 
